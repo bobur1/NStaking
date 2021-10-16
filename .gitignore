@@ -1,0 +1,12 @@
+node_modules
+.idea
+artifacts
+cache
+typechain
+bin
+coverage
+coverage.json
+.env*
+.vscode
+/.idea/.gitignore
+package-lock.json
